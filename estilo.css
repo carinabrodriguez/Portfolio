@@ -1,0 +1,28 @@
+* {
+    font-family: Georgia;
+    background: #dfbddf;
+}
+
+body { 
+    color: #333030;
+    width: 800px; 
+    margin: 0 auto; 
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid #cd00d0;
+    letter-spacing: 1px;
+  }
+
+  td, th {
+    border: 1px solid #cd00d0;
+    padding: 5px 15px;
+  }
+
+img {
+    float: right; 
+    padding: 15px;
+    border-radius: 30px;
+}
+
